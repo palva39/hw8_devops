@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: palva39/hw8_devops:latest  # Change this to your DockerHub username and image name
+          tags: palva39/hw8_devops  # Change this to your DockerHub username and image name
