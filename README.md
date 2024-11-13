@@ -1,2 +1,2 @@
 # hw8_devops
-![DockerHub screenshot](dockerhub_screenshot.png)
+![DockerHub screenshot](docker_screenshot.png)
